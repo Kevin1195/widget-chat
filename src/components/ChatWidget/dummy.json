@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "username": "supporter",
+    "message": "Hello World! fsadsadsadsadsfds dsad dsad áda s",
+    "timestamp": "2022-01-01T00:00:00.000Z",
+    "imageUrl": "https://images2.thanhnien.vn/528068263637045248/2024/1/25/c3c8177f2e6142e8c4885dbff89eb92a-65a11aeea03da880-1706156293184503262817.jpg",
+    "videoUrl": "/video/testvideo.mp4"
+  },
+  {
+    "id": 2,
+    "username": "supporter",
+    "message": "How are you?",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "username": "customer",
+    "message": "How are you? fsadsadsadsadsfds dsad dsad áda s",
+    "timestamp": "2022-01-02T00:00:00.000Z",
+    "imageUrl": "https://images2.thanhnien.vn/528068263637045248/2024/1/25/428059e47aeafb68640f168d615371dc-65a11b038315c880-1706156293087602824781.jpg",
+    "videoUrl": "https://www.youtube.com/embed/DyffqfyWgUE"
+  },
+  {
+    "id": 4,
+    "username": "customer",
+    "message": "How are you? fsadsadsadsadsfds dsad dsad áda s",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "username": "customer",
+    "message": "How are you?",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "username": "customer",
+    "message": "How are you?fsadsadsadsadsfds dsad dsad áda s",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "username": "customer",
+    "message": "How are you?",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "username": "customer",
+    "message": "How are you?",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "id": 9,
+    "username": "customer",
+    "message": "How are you?",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "id": 10,
+    "username": "customer",
+    "message": "How are you?",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "id": 11,
+    "username": "customer",
+    "message": "How are you?",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "id": 12,
+    "username": "customer",
+    "message": "How are you?",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "id": 13,
+    "username": "customer",
+    "message": "How are you?",
+    "timestamp": "2022-01-02T00:00:00.000Z"
+  }
+]
